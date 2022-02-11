@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammad Mohsin</h1>
+<h2 align="center">Aspiring full-stack web developer with a specialization in MERN stack. Strategic thinker, and a team player with an eye for detail. Looking forward to working in an exciting and challenging work environment.</h2>
 
-<!--
-**mohsin19295/mohsin19295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Proficient in MERN stack. 
 
-Here are some ideas to get you started:
+- 🤝 I am open to collaborate on any project that is impactful and makes the world a better place.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about React, MongoDb, Javascript.
+
+- 📫 How to reach me mohsin19295@gmail.com
+
+- ⚡ Know more https://mohsinportfolio1.netlify.app/
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohsin19295&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
