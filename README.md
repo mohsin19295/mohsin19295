@@ -9,7 +9,7 @@
 
 - 📫 How to reach me mohsin19295@gmail.com
 
-- ⚡ Know more <a href="https://mohsinportfolio1.netlify.app/" target="_blank </a>
+- ⚡ Know more <a href="https://mohsinportfolio1.netlify.app/" target="_blank />
 
 <img src="https://github-readme-stats.vercel.app/api?username=mohsin19295&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
