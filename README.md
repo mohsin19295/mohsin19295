@@ -5,7 +5,7 @@
 
 - 🤝 I am open to collaborate on any project that is impactful and makes the world a better place.
 
-- 💬 Ask me about React, MongoDb, Javascript.
+- 💬 Ask me about HTML, CSS, Javascript, React, MongoDb, Express.
 
 - 📫 How to reach me mohsin19295@gmail.com
 
