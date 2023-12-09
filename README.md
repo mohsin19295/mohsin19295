@@ -11,11 +11,7 @@
 
 - 📫 How to reach me: mohsin19295@gmail.com
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohsin19295&show_icons=true&locale=en&layout=compact&bg_color=151515&text_color=daf7dc&title_color=daf7dc" height="200px" alt="mohsin19295"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohsin19295&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="200px" alt="mohsin19295"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsin19295&&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=151515" alt="mohsin19295" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohsin19295&show_icons=true&locale=en&layout=compact&bg_color=151515&text_color=daf7dc&title_color=daf7dc" alt="mohsin19295"/><img src="https://github-readme-stats.vercel.app/api?username=mohsin19295&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="mohsin19295"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsin19295&&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=151515" alt="mohsin19295" />
 
 ---
 
