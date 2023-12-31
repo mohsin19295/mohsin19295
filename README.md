@@ -7,7 +7,7 @@
 
 - 💬 Ask me about HTML, CSS, Javascript, React.js, MongoDB, Express.js, and Node.js.
 
-- ⚡ Know more: https://mmohsin.netlify.app/
+- ⚡ Know more: <a target='_blank' href='https://mmohsin.netlify.app/'>Portfolio</a>
 
 - 📫 How to reach me: mohsin19295@gmail.com
 
