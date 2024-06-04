@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mohsin</h1>
-<h2 align="center">Aspiring Full Stack Web Developer with a specialization in MERN Stack. Strategic thinker, and a team player with an eye for detail. Looking forward to working in an exciting and challenging work environment.</h2>
+<h2 align="center">Aspiring Full Stack Web Developer specialising in MERN Stack. Strategic thinker, and a team player with an eye for detail. Looking forward to working in an exciting and challenging work environment.</h2>
 
 - 👨‍💻 Proficient in MERN stack. 
 
-- 🤝 I am open to collaborate on any project that is impactful and makes the world a better place.
+- 🤝 I am open to collaborating on any impactful project that makes the world a better place.
 
 - 💬 Ask me about HTML, CSS, Javascript, React.js, MongoDB, Express.js, and Node.js.
 
-- ⚡ Know more: <a target='_blank' href='https://mmohsin.netlify.app/'>Portfolio</a>
+- ⚡ Know more: <a target='_blank' href='https://mohsin19295-portfolio.netlify.app/'>Portfolio</a>
 
 - 📫 How to reach me: mohsin19295@gmail.com
 
