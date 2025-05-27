@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mohsin</h1>
-<h2 align="center">React.js Specialist Frontend Developer with 4 years of experience in building user-centric applications. Skilled in the MERN stack and data structures, enabling effective problem-solving and logic building. Detail-oriented team player passionate about delivering scalable solutions.</h2>
+<h2 align="centre">React.js Specialist Frontend Developer with 4 years of experience in building user-centric applications. Skilled in the MERN stack and data structures, enabling effective problem-solving and logic building. Detail-oriented team player passionate about delivering scalable solutions.</h2>
 
 
 - 👨‍💻 Proficient in MERN stack. 
 
-- 🤝 I am open to collaborating on any impactful project that makes the world a better place.
+- 🤝 I am open to collaborating on any impactful project that aims to make the world a better place.
 
-- 💬 Ask me about HTML, CSS, Javascript, React.js, MongoDB, Express.js, and Node.js.
+- 💬 Ask me about HTML, CSS, JavaScript, React.js, Next.js, TypeScript, and more.
 
 - ⚡ Know more: <a target='_blank' href='https://mohsin19295-portfolio.netlify.app/'>Portfolio</a>
 
@@ -22,3 +22,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/mohsin19295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></p>
+
+<div align="center">
+<br><a href="https://www.github.com/mohsin19295" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mohsin19295?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mohsin19295}/count.svg" /></p> 
+<br></div>
