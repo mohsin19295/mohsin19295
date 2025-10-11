@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mohsin</h1>
-<h2 align="centre">React.js Specialist Frontend Developer with 4 years of experience in building user-centric applications. Skilled in the MERN stack and data structures, enabling effective problem-solving and logic building. Detail-oriented team player passionate about delivering scalable solutions.</h2>
+<h2 align="centre">React.js Specialist Frontend Developer with 5 years of experience in building user-centric applications. Skilled in the MERN stack and data structures, enabling effective problem-solving and logic building. Detail-oriented team player passionate about delivering scalable solutions.</h2>
 
 
 - 👨‍💻 Proficient in MERN stack. 
